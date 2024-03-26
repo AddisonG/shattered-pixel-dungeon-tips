@@ -16,13 +16,12 @@ Priority list:
 - Bags
 - Any wand
 - Potion of Healing
-- Small rations
 - Scroll of Remove Curse
 - Ankh
 
 # Farming
 
-Gnoll shamans all have a 3% chance to drop a wand on death. After that, they have a 1% chance (and so on). It's definitely worth trying to stay around as long as you can to try and find a wand. It can really change the game for you.
+Gnoll shamans all have a 3% chance to drop a wand on death. After that, they have a 1% chance (and so on). It's definitely worth trying to stay around as long as you can to try and find a wand. An extra utility wand can be the difference between a win and a loss.
 
 # Talents
 
@@ -55,9 +54,9 @@ I try to keep 2 or 3 wands dedicated to using this ability.
 Some case examples:
 
 > I cast an unidentified wand of frost, and realise it's cursed
-> I immediately cast it on myself, and get an 18HP shield
+> I immediately cast it on myself, and get an 24HP shield
 > I have 80HP max, so each charge gives me 6 shielding (`80 * 0.075`), or 4 shielding for talent lvl 1 (`80 * 0.05`)
-> My 24hp shield must have consumed 4 charges
+> My 24HP shield must have consumed 4 charges
 > My wand must have 5 charges (1 from testing it, and 4 from the shield)
 > That means it must be a Wand of Frost +2
 > Definitely worth using my last Scroll of Remove Curse on!
